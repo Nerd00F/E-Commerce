@@ -19,7 +19,7 @@ body {
   margin: 2% 4%;
 }
 
-.compras:hover {
+.logo:hover, .compras:hover {
   color: rgb(167, 167, 167);
   cursor: pointer;
 }
@@ -39,8 +39,7 @@ body {
   margin-top: 8%;
   padding: 5%;
 
-    margin-left: 40px;
-
+  margin-left: 40px;
 }
 
 img {
